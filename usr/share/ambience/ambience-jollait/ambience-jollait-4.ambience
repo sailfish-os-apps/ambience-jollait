@@ -1,0 +1,19 @@
+{
+    "translationCatalog"        : "ambience-jollait",
+    "displayName"               : "Frozen",
+    "version"                   : 2,
+    "wallpaper"                 : "ambience-nuuksio.png",
+    "highlightColor"            : "#ffb088fe",
+    "secondaryHighlightColor"   : "#ff8d6dcb",
+    "primaryColor"              : "#ffffffff",
+    "secondaryColor"            : "#b0ffffff",
+    "ringerVolume"              : 98,
+    "favorite"			: true,
+    "ringerToneFile"            : { "enabled": 1 },
+    "messageToneFile"           : { "enabled": 1 },
+    "mailToneFile"              : { "enabled": 1 },
+    "internetCallToneFile"      : { "enabled": 1 },
+    "chatToneFile"              : { "enabled": 1 },
+    "calendarToneFile"          : { "enabled": 1 },
+    "clockAlarmToneFile"        : { "enabled": 1 }
+}

@@ -1,0 +1,19 @@
+{
+    "translationCatalog"        : "ambience-jollait",
+    "displayName"               : "Be #Unlike.",
+    "version"                   : 2,
+    "wallpaper"                 : "ambience-beunlike.png",
+    "highlightColor"            : "#ff81ffff",
+    "secondaryHighlightColor"   : "#ff67cccc",
+    "primaryColor"              : "#ffffffff",
+    "secondaryColor"            : "#b0ffffff",
+    "ringerVolume"              : 98,
+    "favorite"			: true,
+    "ringerToneFile"            : { "enabled": 1 },
+    "messageToneFile"           : { "enabled": 1 },
+    "mailToneFile"              : { "enabled": 1 },
+    "internetCallToneFile"      : { "enabled": 1 },
+    "chatToneFile"              : { "enabled": 1 },
+    "calendarToneFile"          : { "enabled": 1 },
+    "clockAlarmToneFile"        : { "enabled": 1 }
+}
